@@ -14,7 +14,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Questao2 {
-cd
+	
 	public static void main(String[] args){
 	
 		try {
@@ -41,7 +41,6 @@ cd
 				//Sort numbers array.
 				Arrays.sort(numbers);
 
-			
 				//Count how many times each number appears in the given sequence.
 				HashMap<Integer, Integer> countRep = new HashMap<Integer, Integer>();
 				int count = 1;
