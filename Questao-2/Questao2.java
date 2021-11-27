@@ -17,7 +17,7 @@ public class Questao2 {
 	public static void main(String[] args) throws FileNotFoundException {
 		
 		//Reading an external file
-		File file = new File("D:/Desenvolvimento/Java-eclipse/sintaxe-basica/src/Input.txt");
+		File file = new File("./Questao2.txt");
 		Scanner scan = new Scanner(file);
 		
 		// Reading first line of the file out of the loop so it can be checked to continue or not. 
